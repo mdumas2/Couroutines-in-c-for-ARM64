@@ -60,7 +60,7 @@ void coroutine_finish(void)
         return;
     }
 
-    free(contexts[current].stack_base);
+    delete[] contexts[current].stack_base;
 
     Context t = contexts[current];
     contexts[current] = contexts.back();
