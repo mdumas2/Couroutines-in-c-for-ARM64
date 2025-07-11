@@ -176,3 +176,4 @@
 # Exercicies
 - [getcracked](https://www.getcracked.io/)
 - [leetcode](https://leetcode.com/problemset/)
+- [C++ The Right Way - Part 1 - Primitive Web Application](https://www.youtube.com/watch?v=LrwhfBTW_Ug&ab_channel=RecreationalProgrammer)
