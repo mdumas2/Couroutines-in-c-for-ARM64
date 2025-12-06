@@ -1,0 +1,6 @@
+.idea/
+cmake-build-debug/
+coroutines
+setjmp_coroutines/coroutines
+*.dSYM
+*.o
